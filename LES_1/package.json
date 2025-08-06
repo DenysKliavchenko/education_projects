@@ -1,5 +1,8 @@
 {
   "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
-  "author": "Denys Kliavchenko"
+  "author": "Denys Kliavchenko",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
