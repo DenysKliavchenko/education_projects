@@ -1,3 +1,5 @@
 {
-	"author": "Denys Kliavchenko"
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "author": "Denys Kliavchenko"
 }
